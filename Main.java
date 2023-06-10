@@ -62,6 +62,8 @@ public class Main {
           continue;
         }
 
+        // Initializing firstName, middleInitial, lastName
+        // grade and iep.
         String firstName = data[0];
         String middleInitial = "";
         String lastName;
